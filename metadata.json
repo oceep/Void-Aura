@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Oceep Main",
+  "description": "A minimalist, modern AI chat interface with real-time web search capabilities using Google Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
